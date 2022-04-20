@@ -52,7 +52,7 @@ main {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    background-color: #6423A9;
+    background-image: linear-gradient(to right,#6423A9,#6623AC,#7A48AE,#ba9fd4);
     font-family: 'Nunito', sans-serif;
 }
 
@@ -150,7 +150,7 @@ main {
     border-radius: 2px;
     box-shadow: 3px 3px 10px #3D1964;
     padding: 2px 10px 5px 10px;
-    background-color: #6423A9;
+    background-image: linear-gradient(to right,#6423A9,#6623AC,#7A48AE,#ba9fd4);
 
 }
 
@@ -212,7 +212,7 @@ main {
 /*------------------FOOTER------------------*/
 /*------------------CATÁLOGO------------------*/
 .body2 {
-    background-color: white; 
+    background-image: linear-gradient(to right,#6423A9,#6623AC,#7A48AE,#ba9fd4); 
 }
 
 .catalogo {
@@ -229,17 +229,17 @@ main {
     font-size: 19px;
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    background-color: #9f76ca;
+    background-color: #7A48AE;
 }
 
 .catalogo div {
-    background-color: #3D1964;
+    
     padding: 5%;
     margin: 5%;
 }
 
 .catalogo div:hover {
-    background-color: #6423A9;
+    background-color: #3D1964;
 }
 
 
